@@ -1,0 +1,51 @@
+.images{
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border: rgb(190, 189, 189) solid;
+}
+
+.element{
+    color:white;
+    font-size: 100px;
+    position: absolute;
+    top:100px;
+    left: 20px;
+}
+.element2{
+    color:white;
+    font-size: 65px;
+    position: absolute;
+    top:125px;
+    left: 20px;
+}
+.elementname{
+    color:white;
+    font-size: 20px;
+    position: absolute;
+    top:150px;
+    left: 100px;
+}
+.elementdetails{
+    color:white;
+    font-size: 20px;
+    position: absolute;
+    top:180px;
+    left: 110px;
+}
+.overview{
+    background-color: rgb(75, 75, 75);
+    font-size: 20px;
+    padding-left: 10px;
+    border: rgb(83, 83, 83) solid;
+    border-width: 1px;
+}
+
+.details{
+    margin-left: 40px;
+    border: none;
+    height: 1px;
+    color: #ccc;
+    background-color: rgb(88, 88, 88);
+    width: 96%;
+}
